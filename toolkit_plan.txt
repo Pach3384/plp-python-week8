@@ -1,0 +1,19 @@
+PERSONAL MINI-TOOLKIT — PROJECT PLAN
+
+1. CHOSEN TOOLS & ONE-SENTENCE DESCRIPTIONS
+- Tool 1 (Study & Task List Manager): Lets the user add study or daily tasks, view the current list, and remove completed tasks while the program runs.
+- Tool 2 (Score & Grade Evaluator): Takes a numerical score (0-100), checks that it is valid, and assigns a clear grade/status message using conditionals.
+- Tool 3 (Countdown & Repeat Helper): Counts down from a chosen positive number to 1 using a loop and displays a friendly completion message.
+
+2. EXACT MENU TEXT
+=== Personal Mini-Toolkit ===
+1. Study & Task List Manager
+2. Score & Grade Evaluator
+3. Countdown Helper
+4. Quit
+
+3. CONCEPTS USED PER TOOL & MENU
+- Main Menu Loop: while loop, input/output, if / elif / else routing, invalid input handling, f-strings.
+- Tool 1 (Study & Task List Manager): list that changes dynamically during execution (append/remove/clear), conditional checks, loop for displaying tasks, f-strings.
+- Tool 2 (Score & Grade Evaluator): conditionals (if / elif / else) for grading and range checks, input validation, f-strings.
+- Tool 3 (Countdown Helper): while/for loop for counting down, conditional check for positive numbers, f-strings.
